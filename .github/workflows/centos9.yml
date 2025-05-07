@@ -11,7 +11,7 @@ on:
       - "**/Cargo.lock"
       - "**/Cargo.toml"
       - ".cargo/config.toml"
-      - ".github/workflows/gen_centos9_continuous.yml"
+      - ".github/workflows/centos9.yml"
       - "assets/fonts/**/*"
       - "assets/icon/*"
       - "assets/open-wezterm-here"
